@@ -2,11 +2,11 @@
 Gestores de Bases de Datos y su importancia en el manejo de la información
 # Tema: Gestores de Bases de Datos y su Importancia en el Manejo de la Información
 
-## Nombre del Estudiante
-- Nombre completo:
-- Carrera:
-- Universidad:
-- Correo institucional:
+## Nombres de los Estudiantes
+- Nombres: Allan Acosta, Jeferson Córdoba, Gerald Gonzalez
+- Carrera: Informatica con Énfasis en Redes y Telecomunicaciones
+- Universidad: Universidad Tecnológica Oteima
+- Correo institucional: allan.acosta@oteima.ac.pa, jeferson.cordoba@oteima.ac.pa, gerald.gonzalez@oteima.ac.pa
 
 ---
 
@@ -119,42 +119,84 @@ Son utilizadas en empresas globales, servicios en la nube y plataformas digitale
 
 ## 4. Ejemplos de Gestores de Bases de Datos
 
-- Ejemplo 1
-- Ejemplo 2
-- Ejemplo 3
+MySQL
 
+Es uno de los gestores relacionales más utilizados a nivel mundial. Se emplea en aplicaciones web, plataformas educativas y sistemas empresariales debido a su facilidad de uso y compatibilidad.
+
+Oracle Database
+
+Orientado principalmente a grandes organizaciones y entornos corporativos donde se requiere alto rendimiento, seguridad y disponibilidad.
+
+MongoDB
+
+Gestor NoSQL basado en documentos que permite almacenar información flexible y escalar grandes volúmenes de datos.
+
+Microsoft SQL Server
+
+Sistema relacional desarrollado para entornos empresariales, análisis de datos y aplicaciones corporativas.
+
+PostgreSQL
+
+Gestor de código abierto reconocido por su estabilidad, seguridad y soporte para operaciones complejas.
 ---
 
 ## 5. Ventajas y Desventajas
 
 ### Ventajas
-- 
-- 
-- 
+- Organización eficiente de grandes cantidades de información.
+- Acceso rápido y simultáneo para varios usuarios.
+- Reducción de redundancia de datos.
+- Mejor seguridad y control de accesos.
+- Recuperación de información mediante copias de respaldo.
+- Facilita informes y análisis para la toma de decisiones.
 
 ### Desventajas
-- 
-- 
-- 
+- Costos elevados de implementación en algunos sistemas.
+- Requieren personal especializado para administración.
+- Configuración y mantenimiento complejos.
+- Dependencia tecnológica y actualizaciones constantes.
+- Posibles vulnerabilidades si no existen medidas de seguridad adecuadas.
 
 ---
 
 ## 6. Seguridad y Protección de la Información
 
-> Explique la importancia de la seguridad en las bases de datos.
+La seguridad en las bases de datos es esencial para proteger la información frente a accesos no autorizados, pérdida de datos y ataques informáticos. Los gestores modernos incorporan mecanismos de protección que permiten garantizar confidencialidad, integridad y disponibilidad.
+
+Entre las principales medidas de seguridad destacan:
+
+- Control de acceso mediante usuarios y permisos.
+- Cifrado de información.
+- Copias de seguridad y recuperación ante desastres.
+- Auditorías y monitoreo de actividades.
+- Protección contra amenazas y vulnerabilidades.
+
+La aplicación de estas estrategias permite mantener la continuidad operativa y evitar pérdidas de información crítica en organizaciones e instituciones.
 
 ---
 
 # Conclusión
 
-> Redacte una conclusión personal sobre el tema investigado.
+Los gestores de bases de datos constituyen herramientas fundamentales dentro del manejo moderno de la información, ya que permiten almacenar, organizar y proteger grandes volúmenes de datos de manera eficiente. Su implementación favorece la automatización de procesos, mejora la toma de decisiones y optimiza la administración de recursos en empresas e instituciones.
+
+Asimismo, la existencia de distintos tipos de gestores, como los relacionales, no relacionales y distribuidos, permite adaptarse a diferentes necesidades tecnológicas. Sin embargo, para aprovechar sus beneficios es indispensable aplicar medidas de seguridad y contar con personal capacitado para su administración.
+
+En conclusión, los sistemas gestores de bases de datos representan una pieza clave en la transformación digital y en el desarrollo de organizaciones orientadas al uso estratégico de la información.
 
 ---
 
 # Referencias Bibliográficas
 
-> Coloque las referencias utilizadas en formato APA.
+Gestor de base de datos: qué es, funciones y tipos. (2021, diciembre 27). Universidad Europea; Universidad Europea | Universidad presencial (Madrid, Valencia, Alicante, Canarias, Málaga) y Online. https://universidadeuropea.com/blog/para-que-sirve-gestor-base-datos/
 
-1. 
-2. 
-3. 
+Gestores de base de datos: qué son y qué tipos existen. (2023, febrero 24). Universidad Internacional de La Rioja. https://mexico.unir.net/noticias/ingenieria/gestores-de-base-de-datos/
+
+Inanna. (2024, marzo 19). Seguridad de Base de Datos. DataSunrise. https://www.datasunrise.com/es/centro-de-conocimiento/seguridad-de-bases-de-datos/
+
+¿Qué es el SGBD? (s/f). OVHcloud. Recuperado el 20 de mayo de 2026, de https://www.ovhcloud.com/es/learn/what-is-dbms/
+
+Salgado, L. G. (2023, julio 14). Sistema gestor de bases de datos: ¿Qué es y cómo funciona? KeepCoding Bootcamps. https://keepcoding.io/blog/sistema-gestor-de-bases-de-datos/
+
+
+
+ 
